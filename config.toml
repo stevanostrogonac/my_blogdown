@@ -33,7 +33,7 @@ enableEmoji = true
 
 [params]
     description = "A website built through Hugo and blogdown. We can add any text we would like to appear on our home page. This is my first website design using blogdown in R at a workshop with Tanja. :heart:"
-    chapter = "Manchester, UK"
+    chapter = "Zdravo, Anđo!!!"
     customCSS = ["css/datateka.css", "css/font-awesome.min.css"]
 
     # options for highlight.js (version, additional languages, and theme)
